@@ -102,3 +102,5 @@ p { color: var(--muted); max-width: 60ch; margin-bottom: 16px; }
 .doc ul { padding-left: 1.2em; margin: 0 0 16px; max-width: 60ch; }
 .doc li { color: var(--muted); margin-bottom: 6px; }
 .doc strong { color: var(--text); font-weight: 500; }
+.fine a { color: inherit; border-bottom: 1px solid var(--line); }
+.fine a:hover { color: var(--accent); }
